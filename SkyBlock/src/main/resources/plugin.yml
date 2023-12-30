@@ -1,0 +1,4 @@
+name: SkyBlock
+version: '${project.version}'
+main: nl.officialfox.skyblock.SkyBlock
+api-version: '1.20'
